@@ -1,0 +1,5 @@
+{
+  "name": "ts-tools-plugin",
+  "description": "Guidance for prepping Shopify product CSVs with the TOVE Tools connector: sourcing the file from Google Drive when needed, and presenting results.",
+  "author": { "name": "Sunny Bourbon" }
+}
