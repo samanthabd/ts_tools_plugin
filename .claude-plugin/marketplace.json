@@ -1,7 +1,7 @@
 {
-  "name": "ts-tools-marketplace",
+  "name": "tove-tools-marketplace",
   "owner": { "name": "S Bourbon Donaldson" },
   "plugins": [
-    { "name": "ts-tools-plugin", "source": "./" }
+    { "name": "tove-tools-plugin", "source": "./" }
   ]
 }
