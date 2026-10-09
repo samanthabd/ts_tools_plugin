@@ -1,6 +1,6 @@
 {
   "name": "ts-tools-marketplace",
-  "owner": { "name": "Sunny Bourbon" },
+  "owner": { "name": "S Bourbon Donaldson" },
   "plugins": [
     { "name": "ts-tools-plugin", "source": "./" }
   ]
