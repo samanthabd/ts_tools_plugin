@@ -1,0 +1,7 @@
+{
+  "name": "ts-tools-marketplace",
+  "owner": { "name": "Sunny Bourbon" },
+  "plugins": [
+    { "name": "ts-tools-plugin", "source": "./" }
+  ]
+}
